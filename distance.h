@@ -1,4 +1,14 @@
-﻿#pragma once
+﻿/**
+ * @file distance.h
+ * @author inso (2101944271@qq.com)
+ * @brief 距离变换相关函数
+ * @version 0.1
+ * @date 2022-03-26
+ *
+ * @copyright Copyright (c) 2022
+ *
+ */
+#pragma once
 
 #include <vector>
 #include "defs.h"

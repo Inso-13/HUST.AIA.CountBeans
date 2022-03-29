@@ -1,6 +1,8 @@
-﻿
-// demo.cpp: 定义应用程序的类行为。
-//
+﻿/**
+ * @file demo.cpp
+ * @brief 定义应用程序的类行为
+ * 
+ */
 
 #include "pch.h"
 #include "framework.h"

@@ -1,4 +1,14 @@
-﻿#pragma once
+﻿/**
+ * @file rects.h
+ * @author inso (2101944271@qq.com)
+ * @brief 使用CRect结构体，连通域提取函数
+ * @version 0.1
+ * @date 2022-03-26
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+#pragma once
 #include "vector"
 #include <atltypes.h>
 #include "defs.h"

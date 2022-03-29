@@ -1,6 +1,8 @@
-﻿
-// demo.h: PROJECT_NAME 应用程序的主头文件
-//
+﻿/**
+ * @file demo.h
+ * @brief demo工程的主类
+ * 
+ */
 
 #pragma once
 
@@ -13,7 +15,6 @@
 
 // CdemoApp:
 // 有关此类的实现，请参阅 demo.cpp
-//
 
 class CdemoApp : public CWinApp
 {

@@ -1,12 +1,22 @@
-﻿#include "pch.h"
+﻿/**
+ * @file util.cpp
+ * @author inso (2101944271@qq.com)
+ * @brief 实用函数库
+ * @version 0.1
+ * @date 2022-03-26
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+#include "pch.h"
 #include "util.h"
 
 
 /**
  * @brief 从某路径下获取全部文件
  * 
- * @param path 
- * @param files 
+ * @param path 给定路径
+ * @param files 返回参数，给定路径下所有文件的绝对路径数组
  */
 void GetFiles(string path, vector<string> &files)
 {
